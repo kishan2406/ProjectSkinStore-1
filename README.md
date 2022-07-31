@@ -1,5 +1,5 @@
 # ProjectSkinStore-1
-it is e-commerce website. It took 5 days to complete this project.  There were 6 members in the team. PART 1
+it is e-commerce website. It took 5 days to complete this project.  There were 6 members in the team. PART-1
 
 
 
